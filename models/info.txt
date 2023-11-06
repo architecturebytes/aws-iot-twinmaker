@@ -1,0 +1,1 @@
+motor.glb - 3D motor model file
